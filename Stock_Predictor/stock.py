@@ -1,3 +1,5 @@
+// Good Stock Predictor
+
 import Predictor as pd
 import sys
 
